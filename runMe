@@ -2,3 +2,4 @@
 
 echo "Hey there! Thanks for cloning the script!";
 echo "GitHub is a great tool that allows developers to share and collaborate.\nI We will be using it to get the code for out websites this unit on our servers!"
+chmod +x runMe
